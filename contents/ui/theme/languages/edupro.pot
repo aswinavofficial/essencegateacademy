@@ -1,0 +1,2597 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Edupro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-11 13:42:49+0000\n"
+"Last-Translator: none\n"
+"Language-Team: GretaThemes <info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;esc_html__;esc_html_e;esc_html_x;esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: css\n"
+"X-Poedit-SearchPathExcluded-1: fonts\n"
+"X-Poedit-SearchPathExcluded-2: img\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+"X-Poedit-SearchPathExcluded-4: lang\n"
+
+#: 404.php:17
+msgid "Sorry, we can't find the page you are looking for. Please go to "
+msgstr ""
+
+#: 404.php:18 inc/breadcrumbs.php:16 single-event.php:18
+#: single-sfwd-courses.php:19 single-sfwd-lessons.php:18
+#: single-sfwd-topic.php:18 single.php:18 template-parts/banner-top.php:106
+msgid "Home"
+msgstr ""
+
+#: 404.php:24
+msgid "Search &hellip;"
+msgstr ""
+
+#: archive-event.php:26 inc/theme-options/09-event.php:109
+#: taxonomy-event_category.php:26
+msgid "All Event"
+msgstr ""
+
+#: archive-event.php:27 inc/theme-options/09-event.php:106
+#: taxonomy-event_category.php:27
+msgid "Happening"
+msgstr ""
+
+#: archive-event.php:28 inc/theme-options/09-event.php:107
+#: taxonomy-event_category.php:28
+msgid "Upcoming"
+msgstr ""
+
+#: archive-event.php:29 inc/theme-options/09-event.php:108
+#: taxonomy-event_category.php:29
+msgid "Expired"
+msgstr ""
+
+#: archive-event.php:48 taxonomy-event_category.php:48
+#, php-format
+msgid "Showing %1$d of %2$d items"
+msgstr ""
+
+#: archive-sfwd-courses.php:39 inc/theme-options/10-courses.php:81
+#: taxonomy-course_category.php:38
+msgid "Trending"
+msgstr ""
+
+#: archive-sfwd-courses.php:40 taxonomy-course_category.php:39
+msgid "Best"
+msgstr ""
+
+#: archive-sfwd-courses.php:41 taxonomy-course_category.php:40
+msgid "New"
+msgstr ""
+
+#: archive-sfwd-courses.php:65 taxonomy-course_category.php:83
+#, php-format
+msgid "Showing %s of %s items"
+msgstr ""
+
+#: author-instructor.php:31
+msgid "Featured courses"
+msgstr ""
+
+#: author-instructor.php:72 author-instructor.php:151
+#: page-templates/login.php:47 page-templates/register.php:60
+#: template-parts/content-course-list.php:23
+#: template-parts/content-course.php:37
+msgid "View profile"
+msgstr ""
+
+#: author-instructor.php:90 author-instructor.php:169
+#: inc/widgets/filter-courses.php:82 inc/widgets/take-this-courses.php:61
+msgid "Free"
+msgstr ""
+
+#: author-instructor.php:122
+msgid "All Courses"
+msgstr ""
+
+#: comments.php:33 template-parts/loop-meta.php:26
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46 inc/woocommerce.php:134
+#: template-parts/content-sfwd-courses.php:28
+msgid "Reviews"
+msgstr ""
+
+#: comments.php:57
+msgid " Star"
+msgstr ""
+
+#: comments.php:83 comments.php:106 comments.php:130
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:86 comments.php:109 comments.php:133
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:87 comments.php:110 comments.php:134
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:146
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:155
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:161
+msgid "Your name"
+msgstr ""
+
+#: comments.php:166
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:171
+msgid "Website"
+msgstr ""
+
+#: comments.php:174
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:175
+msgid "Submit"
+msgstr ""
+
+#: footer.php:68
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:65 inc/theme-options/02-header.php:7
+#: inc/theme-options/theme-options.php:55
+msgid "Header"
+msgstr ""
+
+#: functions.php:66
+msgid "Social menu"
+msgstr ""
+
+#: functions.php:67 functions.php:202 inc/theme-options/12-footer.php:7
+#: inc/theme-options/theme-options.php:65
+msgid "Footer"
+msgstr ""
+
+#: functions.php:130
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:132 functions.php:160 functions.php:170 functions.php:180
+#: functions.php:190 functions.php:214
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:140
+msgid "Topbar left"
+msgstr ""
+
+#: functions.php:149
+msgid "Topbar right"
+msgstr ""
+
+#: functions.php:158
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:168
+msgid "Courses Sidebar"
+msgstr ""
+
+#: functions.php:178
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: functions.php:188
+msgid "Single Courses Sidebar"
+msgstr ""
+
+#: functions.php:202
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:212 inc/admin/meta-boxes.php:46
+msgid "Sidebar bbPress"
+msgstr ""
+
+#: functions.php:360
+#, php-format
+msgid "This theme requires the <b>LearnDash</b> plugin. Please <a href="%5C%22%s%5C%22index.html" target='\"_blank\"'><b>click here</b></a> to buy it."
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:15
+msgid "Courses Information"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:19 inc/widgets/courses-infomation.php:37
+msgid "Skill Level"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:26 inc/widgets/courses-infomation.php:51
+msgid "Language"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:37
+msgid "Hide title and breadcrumb"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:39
+msgid "Check on if you want the title and breadcrumb hide for Page."
+msgstr ""
+
+#: inc/admin/meta-boxes.php:48
+msgid "Check on if you want use Sidebar bbPress for Page."
+msgstr ""
+
+#: inc/admin/meta-boxes.php:53
+msgid "Page Option"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:61
+msgid "Top Slider"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:66
+msgid "Select a Revolution Slider for the top slider"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:89
+msgid "Featured Image"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:105
+msgid "-- None --"
+msgstr ""
+
+#: inc/admin/plugins.php:12
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/admin/plugins.php:18
+msgid "Meta Box"
+msgstr ""
+
+#: inc/admin/plugins.php:23
+msgid "EduPro Addons"
+msgstr ""
+
+#: inc/admin/plugins.php:29
+msgid "One click demo import"
+msgstr ""
+
+#: inc/admin/plugins.php:34
+msgid "Jetpack"
+msgstr ""
+
+#: inc/admin/plugins.php:38
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/admin/plugins.php:42 inc/theme-options/07-woocommerce.php:7
+#: inc/theme-options/theme-options.php:60
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/admin/plugins.php:46
+msgid "WordPress Social Login"
+msgstr ""
+
+#: inc/admin/plugins.php:50 inc/theme-options/02-header.php:256
+msgid "Max Mega Menu"
+msgstr ""
+
+#: inc/admin/plugins.php:54
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/admin/plugins.php:88 inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/plugins.php:89 inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/plugins.php:90 inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/admin/plugins.php:91 inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/admin/plugins.php:92 inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/admin/plugins.php:94 inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:99 inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:104 inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:109 inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:114 inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:119 inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:124 inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:129 inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:134 inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:138 inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/plugins.php:139 inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/admin/plugins.php:140 inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:141 inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/admin/plugins.php:142 inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/admin/plugins.php:143 inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/admin/plugins.php:144 inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/admin/plugins.php:145 inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/admin/plugins.php:146 inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/breadcrumbs.php:72 inc/theme-options/08-portfolio.php:7
+#: inc/theme-options/08-portfolio.php:33 inc/theme-options/default.php:180
+#: inc/theme-options/theme-options.php:61 template-parts/banner-top.php:16
+msgid "Portfolio"
+msgstr ""
+
+#: inc/breadcrumbs.php:79
+msgid "Event"
+msgstr ""
+
+#: inc/breadcrumbs.php:86
+msgid "Forum"
+msgstr ""
+
+#: inc/breadcrumbs.php:93
+msgid "Topic"
+msgstr ""
+
+#: inc/breadcrumbs.php:100
+msgid "Reply"
+msgstr ""
+
+#: inc/breadcrumbs.php:109 inc/theme-options/10-courses.php:7
+#: inc/theme-options/10-courses.php:45 inc/theme-options/default.php:251
+#: inc/theme-options/theme-options.php:63 template-parts/banner-top.php:32
+msgid "Courses"
+msgstr ""
+
+#: inc/breadcrumbs.php:114 searchform.php:8
+msgid "Search"
+msgstr ""
+
+#: inc/breadcrumbs.php:169
+#, php-format
+msgid "Search results for "%s""
+msgstr ""
+
+#: inc/breadcrumbs.php:173
+msgid "Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:180
+msgid "Student Profile"
+msgstr ""
+
+#: inc/breadcrumbs.php:186
+msgid "Instructor Profile"
+msgstr ""
+
+#: inc/breadcrumbs.php:192
+msgid "Author Posts"
+msgstr ""
+
+#: inc/breadcrumbs.php:200
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:207
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:214
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:221
+msgid "Archives"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class='\"count\"'>(%s)</span>"
+msgid_plural "All <span class='\"count\"'>(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class='\"count\"'>(%s)</span>"
+msgid_plural "To Install <span class='\"count\"'>(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class='\"count\"'>(%s)</span>"
+msgid_plural "Update Available <span class='\"count\"'>(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class='\"count\"'>(%s)</span>"
+msgid_plural "To Activate <span class='\"count\"'>(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554 learndash/lesson.php:92
+#: learndash/topic.php:64 template-parts/content-sfwd-courses.php:107
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/excerpt.php:172
+msgid "free"
+msgstr ""
+
+#: inc/excerpt.php:176
+msgid "open"
+msgstr ""
+
+#: inc/extras.php:115
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: inc/extras.php:121
+msgid "Sorry, No more posts"
+msgstr ""
+
+#: inc/login-popup.php:31 inc/login-popup.php:103
+msgid "Wrong username or password."
+msgstr ""
+
+#: inc/login-popup.php:35
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: inc/login-popup.php:56
+msgid "Invalid email."
+msgstr ""
+
+#: inc/login-popup.php:60
+msgid "Password does not match the confirm password"
+msgstr ""
+
+#: inc/login-popup.php:89
+msgid "This username is already registered."
+msgstr ""
+
+#: inc/login-popup.php:92
+msgid "This email address is already registered."
+msgstr ""
+
+#: inc/login-popup.php:106
+msgid "Registered successful, redirecting..."
+msgstr ""
+
+#: inc/media.php:50
+msgid "Something wrong happened. Please try again."
+msgstr ""
+
+#: inc/media.php:54
+msgid "Email Address"
+msgstr ""
+
+#: inc/media.php:55 inc/widgets/login-register.php:199
+#: inc/widgets/login-register.php:243 page-templates/register.php:38
+msgid "Password"
+msgstr ""
+
+#: inc/media.php:56
+msgid "Password does not match the confirm password."
+msgstr ""
+
+#: inc/media.php:79
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/media.php:82
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/reviews-rating.php:57
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/reviews-rating.php:73
+msgid "Pingback:"
+msgstr ""
+
+#: inc/reviews-rating.php:73
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:55 woocommerce/single-product/meta.php:47
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class='\"screen-reader-text\"'> on %s</span>"
+msgstr ""
+
+#: inc/theme-options/00-general.php:7 inc/theme-options/theme-options.php:53
+msgid "General"
+msgstr ""
+
+#: inc/theme-options/00-general.php:14
+msgid "Google Map API KEY"
+msgstr ""
+
+#: inc/theme-options/00-general.php:21
+msgid "Enable / Disable smooth scrolling."
+msgstr ""
+
+#: inc/theme-options/00-general.php:25
+msgid "Font for Title"
+msgstr ""
+
+#: inc/theme-options/00-general.php:31
+msgid "Default font is \"Roboto Condensed\""
+msgstr ""
+
+#: inc/theme-options/00-general.php:34
+msgid "Font Weight For Title"
+msgstr ""
+
+#: inc/theme-options/00-general.php:56
+msgid "Font For Body Text"
+msgstr ""
+
+#: inc/theme-options/00-general.php:65
+msgid "Custom Size Of Fonts in Posts"
+msgstr ""
+
+#: inc/theme-options/00-general.php:70
+msgid "Numeric value only, unit is pixel"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:4
+msgid "Top bar General"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:11
+#, php-format
+msgid "The topbar left and right are <i>2 sidebars</i>: <b>Topbar left</b> and <b>Topbar right</b>. To add content to the topbar, please go to <a href="%5C%22%s%5C%22index.html">Appearance &rarr; Widgets</a>.<br>Recommended content for the topbar: text, custom menu, social links and login/register links."
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:15
+msgid "Show Topbar"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:20 inc/theme-options/01-topbar.php:67
+#: inc/theme-options/02-header.php:151 inc/theme-options/02-header.php:205
+#: inc/theme-options/11-sidebar.php:19 inc/theme-options/12-footer.php:41
+msgid "Background Color"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:27 inc/theme-options/01-topbar.php:74
+#: inc/theme-options/02-header.php:158 inc/theme-options/02-header.php:212
+#: inc/theme-options/02-header.php:238 inc/theme-options/08-portfolio.php:191
+#: inc/theme-options/11-sidebar.php:41 inc/theme-options/12-footer.php:56
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:34 inc/theme-options/01-topbar.php:81
+#: inc/theme-options/02-header.php:165 inc/theme-options/02-header.php:245
+#: inc/theme-options/08-portfolio.php:199
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:40 inc/theme-options/01-topbar.php:87
+msgid "Font Size"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:49 inc/theme-options/02-header.php:172
+msgid "Icon Color"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:56 inc/theme-options/02-header.php:179
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:63 inc/theme-options/02-header.php:226
+msgid "Submenu"
+msgstr ""
+
+#: inc/theme-options/01-topbar.php:96 inc/theme-options/02-header.php:231
+msgid "Border Color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:12
+msgid "Header Style"
+msgstr ""
+
+#: inc/theme-options/02-header.php:16
+msgid "Header Color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:20
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/theme-options/02-header.php:27
+msgid "Header style"
+msgstr ""
+
+#: inc/theme-options/02-header.php:43
+msgid "Image Banner"
+msgstr ""
+
+#: inc/theme-options/02-header.php:52
+msgid "Fix Top Header on Scroll?"
+msgstr ""
+
+#: inc/theme-options/02-header.php:58
+msgid "Show Search | Cart or Socials"
+msgstr ""
+
+#: inc/theme-options/02-header.php:62
+msgid "Default"
+msgstr ""
+
+#: inc/theme-options/02-header.php:63
+msgid "Search | Cart"
+msgstr ""
+
+#: inc/theme-options/02-header.php:64
+msgid "Socials"
+msgstr ""
+
+#: inc/theme-options/02-header.php:71
+msgid "Font Family"
+msgstr ""
+
+#: inc/theme-options/02-header.php:80
+msgid "Font size menu"
+msgstr ""
+
+#: inc/theme-options/02-header.php:89
+msgid "Font size sub menu"
+msgstr ""
+
+#: inc/theme-options/02-header.php:98
+msgid "Font Weight"
+msgstr ""
+
+#: inc/theme-options/02-header.php:121
+msgid "Text Transform"
+msgstr ""
+
+#: inc/theme-options/02-header.php:125
+msgid "None"
+msgstr ""
+
+#: inc/theme-options/02-header.php:126
+msgid "Capitalize"
+msgstr ""
+
+#: inc/theme-options/02-header.php:127
+msgid "Lowercase"
+msgstr ""
+
+#: inc/theme-options/02-header.php:128
+msgid "Uppercase"
+msgstr ""
+
+#: inc/theme-options/02-header.php:136
+msgid "Font Style"
+msgstr ""
+
+#: inc/theme-options/02-header.php:140
+msgid "Normal"
+msgstr ""
+
+#: inc/theme-options/02-header.php:141
+msgid "Italic"
+msgstr ""
+
+#: inc/theme-options/02-header.php:142
+msgid "Oblique"
+msgstr ""
+
+#: inc/theme-options/02-header.php:186
+msgid "Cart Item Color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:193
+msgid "Header Bottom Line Color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:200
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/theme-options/02-header.php:219
+msgid "Background sub menu header"
+msgstr ""
+
+#: inc/theme-options/02-header.php:251
+msgid "Mega Menu option"
+msgstr ""
+
+#: inc/theme-options/02-header.php:255
+msgid "Mega Menu Default"
+msgstr ""
+
+#: inc/theme-options/02-header.php:264
+msgid "Left Pane Background"
+msgstr ""
+
+#: inc/theme-options/02-header.php:272
+msgid "Right Pane Background"
+msgstr ""
+
+#: inc/theme-options/02-header.php:280
+msgid "Separation Line Color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:288
+msgid "Text Color In The Left Pane"
+msgstr ""
+
+#: inc/theme-options/02-header.php:296
+msgid "Text Hover Color In The Left Pane"
+msgstr ""
+
+#: inc/theme-options/02-header.php:304
+msgid "Background Color For Selected Category"
+msgstr ""
+
+#: inc/theme-options/02-header.php:312
+msgid "Text Color For Selected Category"
+msgstr ""
+
+#: inc/theme-options/02-header.php:320 inc/theme-options/05-blog.php:170
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:328
+msgid "Date Color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:336 inc/theme-options/05-blog.php:89
+msgid "Hide Post Date"
+msgstr ""
+
+#: inc/theme-options/02-header.php:343
+msgid "Turn Off Uppercase Posts Title"
+msgstr ""
+
+#: inc/theme-options/02-header.php:350
+msgid "Title color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:358
+msgid "Hover title color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:366
+msgid "Text color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:374
+msgid "Background color"
+msgstr ""
+
+#: inc/theme-options/02-header.php:382
+msgid "Line color"
+msgstr ""
+
+#: inc/theme-options/03-color-schemes.php:7
+msgid "Color schemes"
+msgstr ""
+
+#: inc/theme-options/03-color-schemes.php:12
+msgid "Set Main Color"
+msgstr ""
+
+#: inc/theme-options/03-color-schemes.php:16
+msgid "Custom Color"
+msgstr ""
+
+#: inc/theme-options/03-color-schemes.php:23
+msgid "Main Color"
+msgstr ""
+
+#: inc/theme-options/03-color-schemes.php:37
+msgid "Theme Color"
+msgstr ""
+
+#: inc/theme-options/03-color-schemes.php:44
+msgid "Hover Color"
+msgstr ""
+
+#: inc/theme-options/04-page.php:7 inc/theme-options/theme-options.php:57
+msgid "Page Header"
+msgstr ""
+
+#: inc/theme-options/04-page.php:13
+msgid "Use The Same Header Image On All Pages"
+msgstr ""
+
+#: inc/theme-options/04-page.php:17 inc/theme-options/07-woocommerce.php:24
+#: inc/theme-options/08-portfolio.php:24 inc/theme-options/10-courses.php:24
+msgid "Header Image"
+msgstr ""
+
+#: inc/theme-options/04-page.php:22
+msgid "Page Title Position"
+msgstr ""
+
+#: inc/theme-options/04-page.php:26 inc/theme-options/05-blog.php:122
+#: inc/theme-options/05-blog.php:156 inc/theme-options/07-woocommerce.php:64
+#: inc/theme-options/09-event.php:81 inc/theme-options/10-courses.php:131
+msgid "Left"
+msgstr ""
+
+#: inc/theme-options/04-page.php:27 inc/theme-options/05-blog.php:123
+#: inc/theme-options/05-blog.php:157 inc/theme-options/07-woocommerce.php:65
+#: inc/theme-options/10-courses.php:132
+msgid "Center"
+msgstr ""
+
+#: inc/theme-options/04-page.php:28 inc/theme-options/05-blog.php:124
+#: inc/theme-options/05-blog.php:158 inc/theme-options/07-woocommerce.php:66
+#: inc/theme-options/09-event.php:82 inc/theme-options/10-courses.php:133
+msgid "Right"
+msgstr ""
+
+#: inc/theme-options/04-page.php:34 inc/theme-options/05-blog.php:76
+#: inc/theme-options/10-courses.php:142 inc/theme-options/12-footer.php:36
+#: inc/theme-options/12-footer.php:85
+msgid "Color"
+msgstr ""
+
+#: inc/theme-options/04-page.php:39
+msgid "Background"
+msgstr ""
+
+#: inc/theme-options/04-page.php:44 inc/theme-options/07-woocommerce.php:115
+#: inc/theme-options/10-courses.php:147
+msgid "Title Color"
+msgstr ""
+
+#: inc/theme-options/04-page.php:49
+msgid "Line Color"
+msgstr ""
+
+#: inc/theme-options/04-page.php:54
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:7 inc/theme-options/theme-options.php:58
+#: template-parts/banner-top.php:57
+msgid "Blog"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:12 inc/theme-options/07-woocommerce.php:12
+#: inc/theme-options/08-portfolio.php:12 inc/theme-options/09-event.php:12
+msgid "Archive"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:16 inc/theme-options/07-woocommerce.php:16
+#: inc/theme-options/08-portfolio.php:16 inc/theme-options/09-event.php:16
+msgid "Single"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:24 inc/theme-options/05-blog.php:233
+#: inc/theme-options/07-woocommerce.php:30
+#: inc/theme-options/07-woocommerce.php:174
+#: inc/theme-options/08-portfolio.php:38 inc/theme-options/08-portfolio.php:214
+#: inc/theme-options/09-event.php:116 inc/theme-options/10-courses.php:30
+#: inc/theme-options/10-courses.php:224
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:36 inc/theme-options/08-portfolio.php:50
+#: inc/theme-options/10-courses.php:65
+msgid "Style"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:48
+msgid "Content Display"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:52
+msgid "Post excerpt"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:53
+msgid "Post content"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:54
+msgid "Post content before more tag"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:60 inc/theme-options/09-event.php:68
+msgid "Content limit (words)"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:68
+msgid "Read More Text"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:71 inc/theme-options/default.php:99
+msgid "Read more"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:83
+msgid "Hide Post Thumbnails"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:95 inc/theme-options/05-blog.php:246
+#: inc/theme-options/05-blog.php:282
+msgid "Hide Post Author"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:101 inc/theme-options/08-portfolio.php:96
+msgid "Hide Post Categories"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:107 inc/theme-options/05-blog.php:258
+msgid "Hide Post Comment"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:113
+msgid "Hide Read More Button"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:119
+msgid "Read More Button Position"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:131
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:135
+msgid "Numeric"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:136
+msgid "Click To Load More"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:137
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:144
+msgid "Pagination Load More Text"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:147 inc/theme-options/default.php:104
+msgid "Load more posts"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:152 inc/theme-options/07-woocommerce.php:60
+#: inc/theme-options/10-courses.php:127
+msgid "Page Navigation Alignment"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:166
+msgid "Post Colors"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:177
+msgid "Post Title Hover Color"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:184
+msgid "Post Meta (Author, Categories, ...) Color"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:191
+msgid "Date &amp; Time Background"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:198
+msgid "Date &amp; Time Color"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:205
+msgid "Read More Button Background"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:212
+msgid "Read More Button Text Color"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:219
+msgid "Read More Button Hover Background"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:226
+msgid "Read More Button Hover Color"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:252
+msgid "Hide Post Category"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:264
+msgid "Hide Post Tag"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:270
+msgid "Hide Social Links"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:276
+msgid "Hide Post Navigation"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:288
+msgid "Hide Related Posts"
+msgstr ""
+
+#: inc/theme-options/05-blog.php:293
+msgid "Number Of Related Posts"
+msgstr ""
+
+#: inc/theme-options/06-author.php:7 inc/theme-options/theme-options.php:59
+msgid "Author"
+msgstr ""
+
+#: inc/theme-options/06-author.php:12
+msgid "Sort Author Courses by"
+msgstr ""
+
+#: inc/theme-options/06-author.php:16 inc/theme-options/10-courses.php:83
+msgid "Date"
+msgstr ""
+
+#: inc/theme-options/06-author.php:17 inc/theme-options/10-courses.php:82
+msgid "Rating"
+msgstr ""
+
+#: inc/theme-options/06-author.php:18
+msgid "View"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:43
+msgid "Hide Shopping Cart Filter?"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:49
+msgid "Hide Link Icon On Hover?"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:55
+msgid "Hide Sale Badge?"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:73
+#: inc/theme-options/08-portfolio.php:108
+msgid "Colors"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:78
+#: inc/theme-options/08-portfolio.php:113
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:86
+#: inc/theme-options/08-portfolio.php:121
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:123
+#: inc/theme-options/10-courses.php:154
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:131
+msgid "Price Background Color"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:138
+msgid "Price Color"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:146
+msgid "Add To Cart Button Background Color"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:153
+msgid "Add To Cart Button Hover Background Color"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:160
+msgid "Add To Cart Button Text Color"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:167
+msgid "Add To Cart Button Text Hover Color"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:187
+#: inc/theme-options/10-courses.php:122
+msgid "Hide Price"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:193
+msgid "Hide Star Rating"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:199 inc/theme-options/09-event.php:63
+#: inc/theme-options/10-courses.php:103
+msgid "Hide Description"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:205
+msgid "Hide SKU"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:211
+msgid "Hide Categories"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:217
+#: inc/theme-options/08-portfolio.php:239
+msgid "Hide Tags"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:223
+msgid "Hide Share"
+msgstr ""
+
+#: inc/theme-options/07-woocommerce.php:229
+msgid "Hide Related Products"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:30
+msgid "Page Title"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:54
+msgid "Masonry"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:55 inc/theme-options/09-event.php:93
+#: inc/theme-options/10-courses.php:69
+msgid "Grid"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:62 inc/theme-options/09-event.php:39
+msgid "Hide Filter"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:67
+msgid "Number Of Projects"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:75 inc/theme-options/12-footer.php:13
+msgid "Columns"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:87
+msgid "Text For \"All\" Item In The Filter"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:90 inc/theme-options/default.php:184
+#: inc/widgets/filter-courses.php:68 inc/widgets/filter-courses.php:77
+msgid "All"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:102
+msgid "Hide Link Icon"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:151
+#: inc/theme-options/08-portfolio.php:225
+msgid "Project Title Color"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:159
+msgid "Project Title Hover Color"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:167
+msgid "Categories Color"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:175
+msgid "Categories Background Color"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:183
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:208
+msgid "Hide Title Bottom Line On Hover"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:233
+msgid "Hide Category"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:245
+msgid "Hide Share Button"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:251
+msgid "Hide Next/Prev Navigation"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:257
+msgid "Turn Off Uppercase For Next/Prev Navigation"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:263
+msgid "Title For Next Navigation"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:266 inc/theme-options/default.php:189
+msgid "Previous Portfolio"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:272
+msgid "Title For Prev Navigation"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:275 inc/theme-options/default.php:188
+msgid "Next Portfolio"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:282
+msgid "Hide Related Projects"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:287
+msgid "Related Projects Title"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:290 inc/theme-options/default.php:190
+msgid "Related Porfolios"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:297
+msgid "Turn Off Uppercase For Related Project Title"
+msgstr ""
+
+#: inc/theme-options/08-portfolio.php:303
+msgid "Number Of Related Projects"
+msgstr ""
+
+#: inc/theme-options/09-event.php:7 inc/theme-options/09-event.php:33
+#: inc/theme-options/default.php:216 inc/theme-options/theme-options.php:62
+#: template-parts/banner-top.php:24
+msgid "Events"
+msgstr ""
+
+#: inc/theme-options/09-event.php:24
+msgid "Image Banner Top"
+msgstr ""
+
+#: inc/theme-options/09-event.php:30 inc/theme-options/10-courses.php:42
+msgid "Page title"
+msgstr ""
+
+#: inc/theme-options/09-event.php:45
+msgid "Hide Date &amp; Month"
+msgstr ""
+
+#: inc/theme-options/09-event.php:51
+msgid "Hide Time"
+msgstr ""
+
+#: inc/theme-options/09-event.php:57 inc/theme-options/09-event.php:140
+msgid "Hide Address"
+msgstr ""
+
+#: inc/theme-options/09-event.php:77
+msgid "Button Join Now Alignment"
+msgstr ""
+
+#: inc/theme-options/09-event.php:89
+msgid "Layout"
+msgstr ""
+
+#: inc/theme-options/09-event.php:94 inc/theme-options/10-courses.php:70
+msgid "List"
+msgstr ""
+
+#: inc/theme-options/09-event.php:102
+msgid "By Default, Show:"
+msgstr ""
+
+#: inc/theme-options/09-event.php:128
+msgid "Hide Start Time"
+msgstr ""
+
+#: inc/theme-options/09-event.php:134
+msgid "Hide Finish Time"
+msgstr ""
+
+#: inc/theme-options/09-event.php:146
+msgid "Hide Ticket Price"
+msgstr ""
+
+#: inc/theme-options/09-event.php:151
+msgid "Currency Ticket Price"
+msgstr ""
+
+#: inc/theme-options/09-event.php:160
+msgid "Contact Form Title"
+msgstr ""
+
+#: inc/theme-options/09-event.php:168
+msgid "Shortcode Contact Form"
+msgstr ""
+
+#: inc/theme-options/09-event.php:177
+msgid "Hide Share Icons"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:12
+msgid "Courses Archive"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:16
+msgid "Courses Single"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:51
+msgid "Hide Courses Filter"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:56
+msgid "Number Of Courses"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:77
+msgid "Sort Courses By"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:91
+msgid "Hide Rating"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:97
+msgid "Hide Author"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:110
+msgid "Hide Total User"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:116
+msgid "Hide Total Comment"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:161
+msgid "Author Name Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:168
+msgid "Author Link Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:175
+msgid "Author Link Hover Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:182
+msgid "Users &amp; Comments Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:189
+msgid "Price Button Background Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:196
+msgid "Price Button Background Hover Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:203
+msgid "Free/Open Button Background Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:210
+msgid "Button Free/Open Background Hover Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:217
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:237
+msgid "Hide Curriculum"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:243
+msgid "Hide Instructor"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:249
+msgid "Hide Review"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:255
+msgid "Hide List Comment"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:262
+msgid "Hide Related Courses"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:267
+msgid "Related Courses Title"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:270 inc/theme-options/default.php:259
+msgid "Related Courses"
+msgstr ""
+
+#: inc/theme-options/10-courses.php:276
+msgid "Number Of Related Courses"
+msgstr ""
+
+#: inc/theme-options/11-sidebar.php:7 inc/theme-options/theme-options.php:64
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-options/11-sidebar.php:13
+msgid "Fix Sidebar Position On Scroll?"
+msgstr ""
+
+#: inc/theme-options/11-sidebar.php:26 inc/theme-options/12-footer.php:46
+msgid "Heading Color"
+msgstr ""
+
+#: inc/theme-options/11-sidebar.php:31 inc/theme-options/12-footer.php:51
+msgid "Heading Bottom Line Color"
+msgstr ""
+
+#: inc/theme-options/11-sidebar.php:36
+msgid "Widget Bottom Line Color"
+msgstr ""
+
+#: inc/theme-options/11-sidebar.php:46 inc/theme-options/12-footer.php:61
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme-options/11-sidebar.php:51 inc/theme-options/12-footer.php:66
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:27
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:32
+msgid "Show Go To Top Button?"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:71
+msgid "Social Icon Color"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:76
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:81
+msgid "Footer Line Background Color"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:91
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:96
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:101
+msgid "Copyright Link Color"
+msgstr ""
+
+#: inc/theme-options/12-footer.php:106
+msgid "Copyright Link Hover Color"
+msgstr ""
+
+#: inc/theme-options/default.php:280
+#, php-format
+msgid "Copyright &copy; %s %s. Designed &amp; Developed by %s."
+msgstr ""
+
+#: inc/theme-options/theme-options.php:24
+msgid "Reset Settings"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:46
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:49
+msgid "Settings"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:54
+msgid "Top bar"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:56
+msgid "Color Schemes"
+msgstr ""
+
+#: inc/widgets/author-infomation.php:19
+msgid "Display widget infomation author"
+msgstr ""
+
+#: inc/widgets/author-infomation.php:23
+msgid ".Edupro: Author Infomation Widget"
+msgstr ""
+
+#: inc/widgets/author-infomation.php:47
+msgid "course instructor"
+msgstr ""
+
+#: inc/widgets/author-infomation.php:48
+msgid "follow"
+msgstr ""
+
+#: inc/widgets/author-infomation.php:64 inc/widgets/category-info.php:55
+#: inc/widgets/courses-infomation.php:82 inc/widgets/enrolled-student.php:49
+#: inc/widgets/latest-events.php:107 inc/widgets/latest-posts.php:89
+#: inc/widgets/recent-courses.php:75 inc/widgets/relation-course.php:69
+#: inc/widgets/tag-infomation.php:36
+msgid "Widget title"
+msgstr ""
+
+#: inc/widgets/category-courses.php:24
+msgid ".Edupro: Widget Category Courses"
+msgstr ""
+
+#: inc/widgets/category-courses.php:27
+msgid "Add Category Courses For Site"
+msgstr ""
+
+#: inc/widgets/category-courses.php:92 inc/widgets/filter-courses.php:134
+#: inc/widgets/social-author.php:52 inc/widgets/social-media-links.php:108
+#: inc/widgets/social-media-links.php:121 inc/widgets/take-this-courses.php:89
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/category-info.php:19
+msgid ".EduPro: Category Infomation Widget"
+msgstr ""
+
+#: inc/widgets/contact-info.php:33
+msgid "Display infomation of your company"
+msgstr ""
+
+#: inc/widgets/contact-info.php:35
+msgid ".Edupro: Contact Info"
+msgstr ""
+
+#: inc/widgets/contact-info.php:122
+msgid "Logo link"
+msgstr ""
+
+#: inc/widgets/contact-info.php:126
+msgid "Intro"
+msgstr ""
+
+#: inc/widgets/contact-info.php:130
+msgid "Phone"
+msgstr ""
+
+#: inc/widgets/contact-info.php:134
+msgid "Link Phone"
+msgstr ""
+
+#: inc/widgets/contact-info.php:138
+msgid "Mail"
+msgstr ""
+
+#: inc/widgets/contact-info.php:142
+msgid "Link mail"
+msgstr ""
+
+#: inc/widgets/contact-info.php:146 single-event.php:66
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/contact-info.php:150
+msgid "Link Address"
+msgstr ""
+
+#: inc/widgets/courses-infomation.php:15
+msgid "Display widget Courses Infomation"
+msgstr ""
+
+#: inc/widgets/courses-infomation.php:29
+msgid "Lectures"
+msgstr ""
+
+#: inc/widgets/courses-infomation.php:33
+msgid "Duration"
+msgstr ""
+
+#: inc/widgets/courses-infomation.php:45 inc/widgets/courses-infomation.php:59
+#: inc/widgets/courses-infomation.php:70
+msgid "No"
+msgstr ""
+
+#: inc/widgets/courses-infomation.php:65
+msgid "Certificate"
+msgstr ""
+
+#: inc/widgets/courses-infomation.php:68
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets/enrolled-student.php:13
+msgid "Display avatar student enrolled courses"
+msgstr ""
+
+#: inc/widgets/enrolled-student.php:15
+msgid ".EduPro: Enrolled Student Widget"
+msgstr ""
+
+#: inc/widgets/filter-courses.php:24
+msgid ".Edupro: Widget Filter Courses"
+msgstr ""
+
+#: inc/widgets/filter-courses.php:27
+msgid "Add Filter Courses For Site"
+msgstr ""
+
+#: inc/widgets/filter-courses.php:66
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/filter-courses.php:75
+msgid "Course Type"
+msgstr ""
+
+#: inc/widgets/filter-courses.php:85
+msgid "Open"
+msgstr ""
+
+#: inc/widgets/filter-courses.php:88
+msgid "Closed"
+msgstr ""
+
+#: inc/widgets/filter-courses.php:91
+msgid "Paid"
+msgstr ""
+
+#: inc/widgets/filter-courses.php:94
+msgid "Recurring"
+msgstr ""
+
+#: inc/widgets/latest-events.php:25
+msgid ".Edupro: Widget Latest Events"
+msgstr ""
+
+#: inc/widgets/latest-events.php:28
+msgid "Add Latest Events For Site"
+msgstr ""
+
+#: inc/widgets/latest-events.php:111 inc/widgets/latest-posts.php:96
+#: inc/widgets/recent-courses.php:79
+msgid "Number Item display"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:14
+msgid "Add Latest posts For Site"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:16
+msgid ".Edupro: Widget Latest posts"
+msgstr ""
+
+#: inc/widgets/login-register.php:31
+msgid ".EduPro: Login and Register"
+msgstr ""
+
+#: inc/widgets/login-register.php:34
+msgid "Display Login and Register Menu."
+msgstr ""
+
+#: inc/widgets/login-register.php:138
+msgid "Login Label: "
+msgstr ""
+
+#: inc/widgets/login-register.php:143
+msgid "Login Link: "
+msgstr ""
+
+#: inc/widgets/login-register.php:148
+msgid "Register Label: "
+msgstr ""
+
+#: inc/widgets/login-register.php:153
+msgid "Register Link: "
+msgstr ""
+
+#: inc/widgets/login-register.php:158
+msgid "Logout Label: "
+msgstr ""
+
+#: inc/widgets/login-register.php:162
+msgid "Profile Label: "
+msgstr ""
+
+#: inc/widgets/login-register.php:167
+msgid "Login and Register with Popup"
+msgstr ""
+
+#: inc/widgets/login-register.php:171
+msgid "Shortcode: "
+msgstr ""
+
+#: inc/widgets/login-register.php:188
+msgid "Login"
+msgstr ""
+
+#: inc/widgets/login-register.php:191 inc/widgets/login-register.php:223
+#: page-templates/login.php:19 page-templates/register.php:19
+msgid "Or"
+msgstr ""
+
+#: inc/widgets/login-register.php:198
+msgid "Username or email"
+msgstr ""
+
+#: inc/widgets/login-register.php:200 page-templates/login.php:32
+msgid "Keep me signed in until I sign out"
+msgstr ""
+
+#: inc/widgets/login-register.php:201
+msgid "login to your account"
+msgstr ""
+
+#: inc/widgets/login-register.php:203 page-templates/login.php:26
+msgid "Forgot your password?"
+msgstr ""
+
+#: inc/widgets/login-register.php:208
+msgid "Not a member yet? "
+msgstr ""
+
+#: inc/widgets/login-register.php:208
+msgid "Register now"
+msgstr ""
+
+#: inc/widgets/login-register.php:213
+msgid "Do not have an account ?"
+msgstr ""
+
+#: inc/widgets/login-register.php:213
+msgid " Register here"
+msgstr ""
+
+#: inc/widgets/login-register.php:215 inc/widgets/login-register.php:254
+msgid "X"
+msgstr ""
+
+#: inc/widgets/login-register.php:220 page-templates/register.php:17
+msgid "Register"
+msgstr ""
+
+#: inc/widgets/login-register.php:230 page-templates/register.php:25
+msgid "First Name"
+msgstr ""
+
+#: inc/widgets/login-register.php:233 page-templates/register.php:28
+msgid "Last Name"
+msgstr ""
+
+#: inc/widgets/login-register.php:237 page-templates/register.php:32
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/login-register.php:240 page-templates/register.php:35
+msgid "Email address"
+msgstr ""
+
+#: inc/widgets/login-register.php:246 page-templates/register.php:41
+msgid "Confirm Password"
+msgstr ""
+
+#: inc/widgets/login-register.php:249 page-templates/register.php:44
+msgid "Sign up new account"
+msgstr ""
+
+#: inc/widgets/login-register.php:252 page-templates/register.php:47
+msgid "Have an account?"
+msgstr ""
+
+#: inc/widgets/login-register.php:252
+msgid " Login here"
+msgstr ""
+
+#: inc/widgets/recent-courses.php:14
+msgid "Add Recent Courses For Site"
+msgstr ""
+
+#: inc/widgets/recent-courses.php:16
+msgid ".Edupro: Widget Recent Courses"
+msgstr ""
+
+#: inc/widgets/relation-course.php:12
+msgid "Show relation course"
+msgstr ""
+
+#: inc/widgets/relation-course.php:14
+msgid ".EduPro: Courses Relation"
+msgstr ""
+
+#: inc/widgets/relation-course.php:30 inc/widgets/relation-course.php:66
+msgid "From"
+msgstr ""
+
+#: inc/widgets/social-author.php:19
+msgid "Display icon link author course"
+msgstr ""
+
+#: inc/widgets/social-author.php:22
+msgid ".Edupro: Social Author Widget"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:14
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:15
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:16
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:17
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:18
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:19
+msgid "Tumblr"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:20
+msgid "Flickr"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:21
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:22
+msgid "Bitbucket"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:23
+msgid "Youtube"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:24
+msgid "Github"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:25
+msgid "Dribbble"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:26
+msgid "RSS"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:27
+msgid "Android "
+msgstr ""
+
+#: inc/widgets/social-media-links.php:28
+msgid "Apple"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:29
+msgid "Windows"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:41
+msgid ".EduPro: Social Links"
+msgstr ""
+
+#: inc/widgets/social-media-links.php:44
+msgid "Display links to social media networks."
+msgstr ""
+
+#: inc/widgets/social-media-links.php:124
+msgid "URL"
+msgstr ""
+
+#: inc/widgets/tag-infomation.php:8
+msgid "Tag Courses"
+msgstr ""
+
+#: inc/widgets/tag-infomation.php:14
+msgid ".EduPro: Tag Courses"
+msgstr ""
+
+#: inc/widgets/take-this-courses.php:20
+msgid "Display button take this courses"
+msgstr ""
+
+#: inc/widgets/take-this-courses.php:24
+msgid ".Edupro: Widget Take This Courses"
+msgstr ""
+
+#: inc/woocommerce.php:158
+msgid "Share:"
+msgstr ""
+
+#: index.php:54
+msgid "No post."
+msgstr ""
+
+#: learndash/course.php:36
+#, php-format
+msgctxt "Course Status Label"
+msgid "%s Status:"
+msgstr ""
+
+#: learndash/course.php:43
+msgid "PRINT YOUR CERTIFICATE"
+msgstr ""
+
+#: learndash/course.php:52
+#, php-format
+msgctxt "Course Materials Label"
+msgid "%s Materials"
+msgstr ""
+
+#: learndash/lesson.php:37 learndash/topic.php:45 learndash/topic.php:50
+#, php-format
+msgid "Please go back and complete the previous %s."
+msgstr ""
+
+#: learndash/lesson.php:53
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+#: learndash/lesson.php:63
+msgid "Lecture"
+msgstr ""
+
+#: learndash/lesson.php:118 learndash/topic.php:84
+msgid "Files you have uploaded"
+msgstr ""
+
+#: learndash/lesson.php:124 learndash/topic.php:89
+msgid "Download"
+msgstr ""
+
+#: learndash/lesson.php:128 learndash/topic.php:90
+msgid "Comments"
+msgstr ""
+
+#: learndash/lesson.php:149 learndash/topic.php:117
+msgid "Learning Progress"
+msgstr ""
+
+#: page-templates/login.php:16
+msgid "LOGIN"
+msgstr ""
+
+#: page-templates/login.php:29
+msgid "Log In Your Account"
+msgstr ""
+
+#: page-templates/login.php:36
+msgid "Not yet a member? "
+msgstr ""
+
+#: page-templates/login.php:36
+msgid "REGISTER NOW"
+msgstr ""
+
+#: page-templates/login.php:42 page-templates/register.php:55
+msgid "You already logged in."
+msgstr ""
+
+#: page-templates/register.php:47
+msgid " LOGIN NOW"
+msgstr ""
+
+#: search-courses.php:27 search.php:32
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search-courses.php:44
+msgid "No Courses found ! Please try again."
+msgstr ""
+
+#: search.php:69
+msgid "No results found!"
+msgstr ""
+
+#: searchform.php:3 woocommerce/product-searchform.php:29
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgid "Enter keyword..."
+msgstr ""
+
+#: single-event.php:48
+msgid "Start time"
+msgstr ""
+
+#: single-event.php:57
+msgid "Finish time"
+msgstr ""
+
+#: single-event.php:75
+msgid "Ticket price"
+msgstr ""
+
+#: single-event.php:93 template-parts/content.php:35
+#, php-format
+msgid "Continue reading %s <span class='\"meta-nav\"'>&rarr;</span>"
+msgstr ""
+
+#: single-event.php:98 template-parts/content-page.php:18
+#: template-parts/content-portfolio-single.php:27 template-parts/content.php:40
+msgid "Pages:"
+msgstr ""
+
+#: single-event.php:109 template-parts/content-portfolio-single.php:55
+msgid "Share"
+msgstr ""
+
+#: single-event.php:124
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: single-sfwd-courses.php:41
+msgid "STUDENTS"
+msgstr ""
+
+#: single-sfwd-courses.php:46
+#, php-format
+msgid "REVIEWS (%d)"
+msgstr ""
+
+#: single-sfwd-courses.php:51
+msgid "LEARNING HOURS"
+msgstr ""
+
+#: single.php:57
+msgid "Previous"
+msgstr ""
+
+#: single.php:63
+msgid "Next"
+msgstr ""
+
+#: template-parts/banner-top.php:40
+msgid "Shop"
+msgstr ""
+
+#: template-parts/content-event.php:53
+msgid "Join Now"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href="%5C%22%1%24s%5C%22index.html">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-portfolio-single.php:43
+msgid "Category"
+msgstr ""
+
+#: template-parts/content-portfolio-single.php:49
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-portfolio.php:55
+#: template-parts/content-portfolio.php:63
+msgid "workshop"
+msgstr ""
+
+#: template-parts/content-sfwd-courses.php:25
+msgid "About"
+msgstr ""
+
+#: template-parts/content-sfwd-courses.php:26
+#: template-parts/content-sfwd-courses.php:38
+msgid "Curriculum"
+msgstr ""
+
+#: template-parts/content-sfwd-courses.php:27
+#: template-parts/content-sfwd-courses.php:128
+msgid "Instructor"
+msgstr ""
+
+#: template-parts/content-sfwd-courses.php:53
+#, php-format
+msgid "Available on: %s "
+msgstr ""
+
+#: template-parts/content-sfwd-courses.php:73
+#, php-format
+msgid "Lecture %1$d. %2$d"
+msgstr ""
+
+#: template-parts/header/menu.php:2
+msgid "Primary Menu"
+msgstr ""
+
+#: template-parts/header/search-form.php:2
+msgid "Enter keyword and press enter..."
+msgstr ""
+
+#: template-parts/mobile-sidebar.php:19
+msgid "Social Links Menu"
+msgstr ""
+
+#: template-parts/related-posts.php:31
+msgid "You might also like"
+msgstr ""
+
+#: template-parts/social-buttons.php:11
+msgid "Share this on Facebook"
+msgstr ""
+
+#: template-parts/social-buttons.php:20
+msgid "Tweet on Twitter"
+msgstr ""
+
+#: template-parts/social-buttons.php:30
+msgid "Share on Google+"
+msgstr ""
+
+#: template-parts/social-buttons.php:41
+msgid "Pin it on Pinterest"
+msgstr ""
+
+#: template-parts/social-buttons.php:54
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/product-searchform.php:29
+msgid "Search&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:43
+msgid "Categories:"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:53
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "verified owner"
+msgstr ""
+</info></p></body></html>
